@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.age-display {
+    font-size: 1.5em;
+    color: blue;
+    margin-bottom: 20px;
+}
+
+#years, #months, #days {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+input[type="date"] {
+    padding: 10px;
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
